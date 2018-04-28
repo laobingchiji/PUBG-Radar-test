@@ -35,7 +35,6 @@ npm i -g pino
 npm install -g forever
 forever start index.js sniff eth0 $ip | pino
 
-nohup . /root/libpcap-1.8.1/PUBG-Radar-test/download-map.sh &
 
 echo "搭建完成 "
-echo "观看地址 http://$ip:20086/"
+echo "观看地址 http://ip:20086/"
