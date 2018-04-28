@@ -29,7 +29,7 @@ make
 make install
 
 git clone https://github.com/794959818/PUBG-Radar-test.git
-cd pubgtest428/
+cd PUBG-Radar-test/
 npm i
 npm i -g pino
 npm install -g forever
